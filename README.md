@@ -2,7 +2,7 @@
 
 A collection of Jupyter Notebooks that provide examples for different use cases \
 You can view the notebook files (.ipynb extension) directly here in Github or use the jupyter [nbviewer] \
-You can also execute the notebooks in [binder] \
+You can also execute the notebooks in [binder] 
 
 Please checkout available notebooks here:
 - [jupyter-d3-visualization-mashup]
