@@ -12,12 +12,14 @@ The [Jupyter Notebook documentation] says:
 >**Notebook documents:** a representation of all content visible in the web application, including inputs and outputs of the computations, explanatory text, mathematics, images, and rich media representations of objects. 
 
 You can view, but not execute, the notebook files (.ipynb extension) directly here in Github or use the jupyter [nbviewer] \
-You can also execute the notebooks in [binder] 
+You can also execute some of the notebooks in [binder] 
 
 Please checkout available notebooks here:
 - [jupyter-d3-visualization-mashup]
+- [jupyter-spacy]
 
 [jupyter-d3-visualization-mashup]: https://github.com/piazzablu/jupyter-playground/tree/master/jupyter-d3-visualization-mashup
 [nbviewer]: https://nbviewer.jupyter.org/
 [binder]: https://mybinder.org/v2/gh/piazzablu/jupyter-playground/master
 [Jupyter Notebook documentation]: https://jupyter-notebook.readthedocs.io/en/stable/index.html
+[jupyter-spacy]: https://github.com/piazzablu/jupyter-playground/tree/master/jupyter-spacy
